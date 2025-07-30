@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZIK-FX
 - 👀 I’m interested in circuit programming
-- 🌱 I’m currently learning C and C++, Blockchain technology and crypto currency 
-- 💞️ I’m looking to collaborate on Arduino and Raspberry Pi projects
+- 🌱 I’m currently learning Python 🐍, C and C++, cryptography and blockchain technology.
 - 📫 How to reach me ijachiisaacochagwu@gmail.com/+2349074549024/Facebook: IJACHI ISAAC OCHAGWU/ Twitter: @IjachiIsaac
 
 <!---
