@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZIK-FX
 - 👀 I’m interested in circuit programming
-- 🌱 I’m currently Full-Stack Web Development.
+- 🌱 I’m currently Learning Full-Stack Web Development.
 - 📫 How to reach me ijachiisaacochagwu@gmail.com/+2349074549024/Facebook: IJACHI ISAAC OCHAGWU/ Twitter: @OCHAGWU001
 
 <!---
