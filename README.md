@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZIK-FX
+- 👋 Hi, I’m @OCHAGWU
 - 👀 I’m interested in Everything Code
 - 🌱 I’m currently Learning Full-Stack Web Development.
 - 📫 How to reach me ijachiisaacochagwu@gmail.com/+2349074549024/Facebook: IJACHI ISAAC OCHAGWU/ Twitter: @OCHAGWU001
